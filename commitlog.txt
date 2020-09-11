@@ -1,0 +1,65 @@
+commit 9a330a1e5c2a4449e42c55ebd39e801bf985a28c
+Author: Peter Juma <wanyonyi.p@gmail.com>
+Date:   Fri Aug 14 13:20:22 2020 +0300
+
+    initial commit
+
+commit 155b956126a662a27e09da00966d7cd8a96b15b5
+Merge: 30003c9 5ee0db3
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:10:15 2020 +0300
+
+    Merge pull request #3 from peterjuma/pullme
+    
+    Merge pull request #2 from peterjuma/master
+
+commit 5ee0db39ca3ee1074854357d36c84efab4d02e3f
+Merge: ebd464f 30003c9
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:06:25 2020 +0300
+
+    Merge pull request #2 from peterjuma/master
+    
+    this is how we generate our shit.
+
+commit 30003c90cfd8141390993db1f7c3fa5c28c6a452
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:05:00 2020 +0300
+
+    this is how we generate our shit.
+
+commit ebd464f3cff0d21fd7f6565865f0034022fcf132
+Author: MyAndela <peter.juma@andela.com>
+Date:   Wed Jul 1 12:49:50 2020 +0300
+
+    Add environment variables file to .gitignore
+
+commit 9cd0964efae68b869e36ce73401510e94392503d
+Author: MyAndela <peter.juma@andela.com>
+Date:   Wed Jul 1 12:48:33 2020 +0300
+
+    Add new ENV file
+
+commit bc351d7865ea8d395c19baf05fb16b28341a72be
+Author: No Name <noname@example.com>
+Date:   Fri Jun 26 21:53:55 2020 +1000
+
+    Add README
+
+commit 7a4a01495fab604e57ca57f004c5109ba1afc880
+Author: No Name <noname@example.com>
+Date:   Fri Jun 26 21:48:46 2020 +1000
+
+    Change wording again
+
+commit 924c3a40b3d65fc776ceb0716fe021fcfe138eac
+Author: No Name <noname@example.com>
+Date:   Fri Jun 26 21:47:22 2020 +1000
+
+    Update language
+
+commit 3bb6b411a281ff198eab0c8e54760b2e42ad507b
+Author: No Name <noname@example.com>
+Date:   Fri Jun 26 21:46:47 2020 +1000
+
+    Initial commit
