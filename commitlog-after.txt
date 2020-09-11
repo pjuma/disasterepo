@@ -1,0 +1,71 @@
+commit 20d2dc4a8d2ca01ecc8d8e66a170f016c382e624
+Author: Peter Juma <wanyonyi.p@gmail.com>
+Date:   Mon Aug 17 10:08:30 2020 +0300
+
+    Commits - Before
+
+commit 135900347449676572362f8aee5899a98f6a7f9f
+Author: Peter Juma <wanyonyi.p@gmail.com>
+Date:   Fri Aug 14 13:20:22 2020 +0300
+
+    initial commit
+
+commit 395321b645d07e42e354595b532fd56ea6bea728
+Merge: 233cc79 af3dc49
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:10:15 2020 +0300
+
+    Merge pull request #3 from peterjuma/pullme
+    
+    Merge pull request #2 from peterjuma/master
+
+commit af3dc49bd9be5b50ade4e0e87e902904850c6957
+Merge: f13c979 233cc79
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:06:25 2020 +0300
+
+    Merge pull request #2 from peterjuma/master
+    
+    this is how we generate our shit.
+
+commit 233cc79973b980b000c20c2bf309bff74884ed05
+Author: MyAndela <peter.juma@andela.com>
+Date:   Thu Aug 13 18:05:00 2020 +0300
+
+    this is how we generate our shit.
+
+commit f13c979aa575316228d449e86342356a7bcb3050
+Author: MyAndela <peter.juma@andela.com>
+Date:   Wed Jul 1 12:49:50 2020 +0300
+
+    Add environment variables file to .gitignore
+
+commit 048fd4c795a7b0c0239e700b642c723b5fd8f4bd
+Author: MyAndela <peter.juma@andela.com>
+Date:   Wed Jul 1 12:48:33 2020 +0300
+
+    Add new ENV file
+
+commit aafc3e62d988944bb65b6d9a1e3581f9985eeabb
+Author: Peter Juma - Andela <peter.juma@andela.com>
+Date:   Fri Jun 26 21:53:55 2020 +1000
+
+    Add README
+
+commit e4484b9889a407bd09bf600919193e070d037aeb
+Author: Peter Juma - Andela <peter.juma@andela.com>
+Date:   Fri Jun 26 21:48:46 2020 +1000
+
+    Change wording again
+
+commit 3610ffd31963fe768b10addf7ec1d5de140ef27c
+Author: Peter Juma - Andela <peter.juma@andela.com>
+Date:   Fri Jun 26 21:47:22 2020 +1000
+
+    Update language
+
+commit 11cecd7e3f04c25bb94c7115050b82661e6309d3
+Author: Peter Juma - Andela <peter.juma@andela.com>
+Date:   Fri Jun 26 21:46:47 2020 +1000
+
+    Initial commit
